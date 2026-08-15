@@ -1,0 +1,10 @@
+name: rational-elliptic-torsion-calibration
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - sage=10.8
+  - pytest=8.3
+  - pip
+  - setuptools>=68
+  - wheel

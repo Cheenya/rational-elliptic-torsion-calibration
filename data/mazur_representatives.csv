@@ -1,0 +1,16 @@
+expected_type,a,b,provenance
+Z/1,-10,-10,coefficient_grid
+Z/2,-10,-9,coefficient_grid
+Z/2 x Z/2,-9,0,coefficient_grid
+Z/3,-9,9,coefficient_grid
+Z/4,-2,1,coefficient_grid
+Z/5,-432,8208,Adamova_reference
+Z/6,0,1,coefficient_grid
+Z/7,-43,166,Adamova_reference
+Z/8,-44091,3304854,Adamova_reference
+Z/9,-219,1654,calibration
+Z/10,-58347,3954150,Cremona_66c1_short_model
+Z/12,-1947,108214,calibration
+Z/2 x Z/4,-12987,-263466,Cremona_15a1_short_model
+Z/2 x Z/6,-24003,1296702,calibration
+Z/2 x Z/8,-1386747,368636886,Cremona_210e2_short_model

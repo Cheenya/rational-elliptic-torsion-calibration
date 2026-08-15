@@ -1,0 +1,65 @@
+cff-version: "1.2.0"
+message: "Пожалуйста, цитируйте это программное обеспечение и соответствующий доклад."
+type: software
+title: "Вычисление групп кручения рациональных эллиптических кривых методом предварительной калибровки"
+version: "0.1.0"
+date-released: "2026-08-15"
+license: MIT
+authors:
+  - family-names: "Чистяков"
+    given-names: "Никита Андреевич"
+  - family-names: "Адамова"
+    given-names: "Раиса Сергеевна"
+preferred-citation:
+  type: generic
+  title: "Вычисление групп кручения рациональных эллиптических кривых методом предварительной калибровки"
+  year: 2026
+  authors:
+    - family-names: "Чистяков"
+      given-names: "Никита Андреевич"
+    - family-names: "Адамова"
+      given-names: "Раиса Сергеевна"
+references:
+  - type: generic
+    title: "Вычисление группы точек конечного порядка рациональной эллиптической кривой"
+    authors:
+      - family-names: Adamova
+        given-names: "R. S."
+    year: 2025
+    isbn: "978-5-6054088-7-1"
+  - type: article
+    title: "Sur l'équation y^2 = x^3 - Ax - B dans les corps p-adiques"
+    authors:
+      - family-names: Lutz
+        given-names: Élisabeth
+    year: 1937
+    doi: "10.1515/crll.1937.177.238"
+  - type: article
+    title: "Solution de quelques problèmes dans la théorie arithmétique des cubiques planes du premier genre"
+    authors:
+      - family-names: Nagell
+        given-names: Trygve
+    year: 1935
+  - type: article
+    title: "Modular curves and the Eisenstein ideal"
+    authors:
+      - family-names: Mazur
+        given-names: Barry
+    year: 1977
+    doi: "10.1007/BF02684339"
+  - type: book
+    title: "Algorithms for Modular Elliptic Curves"
+    authors:
+      - family-names: Cremona
+        given-names: "J. E."
+    edition: "Second edition"
+    publisher:
+      name: "Cambridge University Press"
+    year: 1997
+  - type: software
+    title: SageMath
+    authors:
+      - name: "The Sage Developers"
+    version: "10.8"
+    url: "https://www.sagemath.org"
+    doi: "10.5281/zenodo.8042260"
